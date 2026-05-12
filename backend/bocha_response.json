@@ -1,0 +1,103 @@
+{
+  "code": 200,
+  "log_id": "83d53059b1bc8168",
+  "msg": null,
+  "data": {
+    "_type": "SearchResponse",
+    "queryContext": {
+      "originalQuery": "Python tutorial"
+    },
+    "webPages": {
+      "webSearchUrl": "https://bochaai.com/search?q=Python tutorial",
+      "totalEstimatedMatches": 10000000,
+      "value": [
+        {
+          "id": "https://api.bochaai.com/v1/#WebPages.0",
+          "name": "PythonTutorial资源-CSDN文库",
+          "url": "https://download.csdn.net/download/gift_lbs/1168074",
+          "displayUrl": "https://download.csdn.net/download/gift_lbs/1168074",
+          "snippet": "PDF 举报 本文档根据官方文档 http://www.pythondoc.com/pythontutorial3/ 和 中文文档 http://www.pythondoc.com/pythontut",
+          "summary": "PDF 举报 本文档根据官方文档 http://www.pythondoc.com/pythontutorial3/ 和 中文文档 http://www.pythondoc.com/pythontutorial3/ 翻译与整理 Python Tutorial Python 入门指南 浏览:72 5星·资源好评率100% Python Tutorial Python 入门指南 The Python Tutorial for python-2.7.6 浏览:174 5星·资源好评率100% The Python Tutorial --python 的官方手册,建议大家好好读,也可以下载中文版学习! 《Python Tutorial Python》PDF 浏览:98 《Python Tutorial Python》 Python Tutorial 3.8.1教程中文.pdf 浏览:197 Python Tutorial 3.8.1教程中文 官方文档 Python Tutorial 发布3.8.1 Guido van Rossum and the Python development team 二月06, 2020 Python Software Foundation Email: docs@python.org Python Tutorial Python 浏览:166 Python Tutorial Python(Python Tutorial Python 入门指南 Release 2.5b2 英文) ADO Programming with Python Tutorial 浏览:80 ADO Programming with Python Tutorial Python Tutorial 新手入门教程 PDF版.rar 浏览:193 Python Tutorial ——Py",
+          "siteName": "CSDN文库",
+          "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://download.csdn.net/download/gift_lbs/1168074",
+          "datePublished": "2009-04-02T04:35:11+08:00",
+          "dateLastCrawled": "2009-04-02T04:35:11Z",
+          "cachedPageUrl": null,
+          "language": null,
+          "isFamilyFriendly": null,
+          "isNavigational": null
+        },
+        {
+          "id": "https://api.bochaai.com/v1/#WebPages.1",
+          "name": "Python Tutorial",
+          "url": "https://www.w3schools.com/python/",
+          "displayUrl": "https://www.w3schools.com/python/",
+          "snippet": "Python Tutorial Learn Python Python is a popular programming language. Learning by Examples With our",
+          "summary": "Python Tutorial Learn Python Python is a popular programming language. Learning by Examples With our \"Try it Yourself\" editor, you can edit Python code and view the result. Example Click on the \"Try it Yourself\" button to see how it works. Python File Handling In our File Handling section you will learn how to open, read, write, and delete files. Python Database Handling In our database section you will learn how to access and work with MySQL and MongoDB databases: Python Exercises Many chapters in this tutorial end with an exercise where you can check your level of knowledge. Python Examples Learn by examples! This tutorial supplements all explanations with clarifying examples. Python Quiz Test your Python skills with a quiz. Track Your Progress Create a free W3Schools account and get acc",
+          "siteName": "www.w3schools.com",
+          "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.w3schools.com/python/",
+          "datePublished": "2025-04-13T13:44:17+08:00",
+          "dateLastCrawled": "2025-04-13T13:44:17Z",
+          "cachedPageUrl": null,
+          "language": null,
+          "isFamilyFriendly": null,
+          "isNavigational": null
+        },
+        {
+          "id": "https://api.bochaai.com/v1/#WebPages.2",
+          "name": "python tutorial怎么样_Python Tutorial 新手入门指南_IT教程网_夜行者陈拙的博客-CSDN博客",
+          "url": "https://blog.csdn.net/weixin_30536391/article/details/113639890",
+          "displayUrl": "https://blog.csdn.net/weixin_30536391/article/details/113639890",
+          "snippet": "版权声明:本文为博主原创文章,遵循CC 4.0 BY-SA版权协议,转载请附上原文出处链接和本声明。 版权 资源名称:Python Tutorial 新手入门指南 Python Tutorial ——",
+          "summary": "版权声明:本文为博主原创文章,遵循CC 4.0 BY-SA版权协议,转载请附上原文出处链接和本声明。 版权 资源名称:Python Tutorial 新手入门指南 Python Tutorial ——Python新手入门指南 PDF版,内容包括: Whetting Your Appetite 开胃菜 Using the Python Interpreter使用Python解释器 More Control Flow Tools 流程控制 Data Structures数据结构 Errors and Exceptions错误和异常 标准库概览............ Python Tutorial ——Python新手入门指南 PDF版,内容包括: Whetting Your Appetite 开胃菜 Using the Python Interpreter使用Python解释器 More Control Flow Tools 流程控制 Data Structures数据结构 Errors and Exceptions错误和异常 标准库概览............ 提问 点赞 踩 收藏 觉得还不错? 一键收藏 打赏 评论 python tutorial怎么样_Python Tutorial 新手入门指南_IT教程网 资源名称:Python Tutorial 新手入门指南Python Tutorial ——Python新手入门指南 PDF版,内容包括:Whetting Your Appetite 开胃菜Using the Python Interpreter使用Python解释器More Control Flow Tools 流程控制Data Structures数据结构Errors and Exception... 复制链接 The Python Tu tor ial ( 教程",
+          "siteName": "CSDN",
+          "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://blog.csdn.net/weixin_30536391/article/details/113639890",
+          "datePublished": "2021-02-03T01:04:37+08:00",
+          "dateLastCrawled": "2021-02-03T01:04:37Z",
+          "cachedPageUrl": null,
+          "language": null,
+          "isFamilyFriendly": null,
+          "isNavigational": null
+        }
+      ],
+      "someResultsRemoved": true
+    },
+    "images": {
+      "id": null,
+      "readLink": null,
+      "webSearchUrl": null,
+      "value": [
+        {
+          "webSearchUrl": null,
+          "name": null,
+          "thumbnailUrl": "https://csdnimg.cn/release/downloadcmsfe/public/img/star.98a08eaa.png",
+          "datePublished": null,
+          "contentUrl": "https://csdnimg.cn/release/downloadcmsfe/public/img/star.98a08eaa.png",
+          "hostPageUrl": "https://download.csdn.net/download/gift_lbs/1168074",
+          "contentSize": null,
+          "encodingFormat": null,
+          "hostPageDisplayUrl": "https://download.csdn.net/download/gift_lbs/1168074",
+          "width": 0,
+          "height": 0,
+          "thumbnail": null
+        },
+        {
+          "webSearchUrl": null,
+          "name": null,
+          "thumbnailUrl": "https://img-blog.csdnimg.cn/img_convert/6b03c6bd73e1e6e442f7e6e53496d58e.png",
+          "datePublished": null,
+          "contentUrl": "https://img-blog.csdnimg.cn/img_convert/6b03c6bd73e1e6e442f7e6e53496d58e.png",
+          "hostPageUrl": "https://blog.csdn.net/weixin_30536391/article/details/113639890",
+          "contentSize": null,
+          "encodingFormat": null,
+          "hostPageDisplayUrl": "https://blog.csdn.net/weixin_30536391/article/details/113639890",
+          "width": 0,
+          "height": 0,
+          "thumbnail": null
+        }
+      ],
+      "isFamilyFriendly": null
+    },
+    "videos": null
+  }
+}

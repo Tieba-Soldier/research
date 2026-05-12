@@ -1,0 +1,2342 @@
+INFO:     Started server process [123560]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+Redis initialization failed: Port could not be cast to integer value as 'Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob'. Cache will be disabled.
+Using fallback for UserNeedAnalyzer
+Using fallback for TopicExtractor
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter, Distributed Lock
+Using fallback for LearningPathGenerator
+Using fallback for PracticeTaskGenerator: Redis Cache Penetration
+[PracticeTaskGenerator[task=None]] LLM call timeout after 30s
+Redis initialization failed: Port could not be cast to integer value as 'Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob'. Cache will be disabled.
+Using fallback for UserNeedAnalyzer
+Using fallback for TopicExtractor
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for LearningPathGenerator
+Using fallback for PracticeTaskGenerator: Spring Transaction Propagation REQUIRED
+[PracticeTaskGenerator[task=None]] LLM call timeout after 30s
+Redis initialization failed: Port could not be cast to integer value as 'Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob'. Cache will be disabled.
+Using fallback for UserNeedAnalyzer
+Using fallback for TopicExtractor
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Statement, MySQL Slow Query Optimization
+Using fallback for LearningPathGenerator
+Using fallback for PracticeTaskGenerator: MySQL Index Failure
+[PracticeTaskGenerator[task=None]] LLM call timeout after 30s
+Redis initialization failed: Port could not be cast to integer value as 'Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob'. Cache will be disabled.
+Using fallback for UserNeedAnalyzer
+Using fallback for TopicExtractor
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for LearningPathGenerator
+Using fallback for PracticeTaskGenerator: Docker Image Building
+Redis initialization failed: Port could not be cast to integer value as 'Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob'. Cache will be disabled.
+Using fallback for UserNeedAnalyzer
+Using fallback for TopicExtractor
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+[ResourceEvaluator[task=None]] Direct parse failed: Unterminated string starting at: line 4 column 16 (char 40), trying repair
+[ResourceEvaluator[task=None]] Schema validation failed: 5 validation errors for ResourceEvaluationOutput
+resources.0.url
+  Field required [type=missing, input_value={'title': '开源项目...N D E X | 扔掉笔记'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+resources.0.summary
+  Field required [type=missing, input_value={'title': '开源项目...N D E X | 扔掉笔记'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+resources.0.reason
+  Field required [type=missing, input_value={'title': '开源项目...N D E X | 扔掉笔记'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+resources.0.quality_score
+  Field required [type=missing, input_value={'title': '开源项目...N D E X | 扔掉笔记'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+resources.0.difficulty_level
+  Field required [type=missing, input_value={'title': '开源项目...N D E X | 扔掉笔记'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+[ResourceEvaluator[task=None]] Schema validation failed after retry: 5 validation errors for ResourceEvaluationOutput
+resources.0.url
+  Field required [type=missing, input_value={'title': '开源项目...N D E X | 扔掉笔记'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+resources.0.summary
+  Field required [type=missing, input_value={'title': '开源项目...N D E X | 扔掉笔记'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+resources.0.reason
+  Field required [type=missing, input_value={'title': '开源项目...N D E X | 扔掉笔记'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+resources.0.quality_score
+  Field required [type=missing, input_value={'title': '开源项目...N D E X | 扔掉笔记'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+resources.0.difficulty_level
+  Field required [type=missing, input_value={'title': '开源项目...N D E X | 扔掉笔记'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+Using fallback for LearningPathGenerator
+Using fallback for PracticeTaskGenerator: 后端缓存技术
+[PracticeTaskGenerator[task=None]] LLM call timeout after 30s
+Redis initialization failed: Port could not be cast to integer value as 'Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob'. Cache will be disabled.
+Using fallback for UserNeedAnalyzer
+Using fallback for TopicExtractor
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习python
+
+学习主题：Python
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习python
+
+学习主题：Python
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习python
+
+学习主题：Python
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习python
+
+学习主题：Python
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习python
+
+学习主题：Python
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习python
+
+学习主题：Python
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习python
+
+学习主题：Python
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习python
+
+学习主题：Python
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习python
+
+学习主题：Python
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习python
+
+学习主题：Python
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习python
+
+学习主题：Python
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习python
+
+学习主题：Python
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习python
+
+学习主题：Python
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习python
+
+学习主题：Python
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习python
+
+学习主题：Python
+Using fallback for LearningPathGenerator
+Using fallback for PracticeTaskGenerator: Python
+Redis initialization failed: Port could not be cast to integer value as 'Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob'. Cache will be disabled.
+Using fallback for UserNeedAnalyzer
+Using fallback for TopicExtractor
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习英雄联盟伊泽瑞尔
+学习主题：League of Legends Ezreal
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习英雄联盟伊泽瑞尔
+学习主题：League of Legends Ezreal
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习英雄联盟伊泽瑞尔
+学习主题：League of Legends Ezreal
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习英雄联盟伊泽瑞尔
+学习主题：League of Legends Ezreal
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习英雄联盟伊泽瑞尔
+学习主题：League of Legends Ezreal
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习英雄联盟伊泽瑞尔
+学习主题：League of Legends Ezreal
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习英雄联盟伊泽瑞尔
+学习主题：League of Legends Ezreal
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习英雄联盟伊泽瑞尔
+学习主题：League of Legends Ezreal
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习英雄联盟伊泽瑞尔
+学习主题：League of Legends Ezreal
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习英雄联盟伊泽瑞尔
+学习主题：League of Legends Ezreal
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习英雄联盟伊泽瑞尔
+学习主题：League of Legends Ezreal
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习英雄联盟伊泽瑞尔
+学习主题：League of Legends Ezreal
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习英雄联盟伊泽瑞尔
+学习主题：League of Legends Ezreal
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习英雄联盟伊泽瑞尔
+学习主题：League of Legends Ezreal
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习英雄联盟伊泽瑞尔
+学习主题：League of Legends Ezreal
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习英雄联盟伊泽瑞尔
+学习主题：League of Legends Ezreal
+Using fallback for ResourceEvaluator: 用户学习需求：我想学习英雄联盟伊泽瑞尔
+学习主题：League of Legends Ezreal
+Using fallback for LearningPathGenerator
+Using fallback for PracticeTaskGenerator: League of Legends Ezreal
+Redis initialization failed: Port could not be cast to integer value as 'Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob'. Cache will be disabled.
+Using fallback for UserNeedAnalyzer
+Using fallback for TopicExtractor
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis 缓存穿透, Redis 缓存击穿, Redis 缓存雪崩, Redis 布隆过滤器, Redis 分布式锁
+Using fallback for LearningPathGenerator
+Using fallback for PracticeTaskGenerator: Redis 缓存穿透
+[PracticeTaskGenerator[task=None]] LLM call timeout after 30s
+Redis initialization failed: Port could not be cast to integer value as 'Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob'. Cache will be disabled.
+Using fallback for UserNeedAnalyzer
+Using fallback for TopicExtractor
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring 事务传播机制 REQUIRED, Spring 事务传播机制 REQUIRES_NEW, Spring 事务传播机制 NESTED
+--- Logging error ---
+Traceback (most recent call last):
+  File "D:\Anaconda\lib\logging\__init__.py", line 1086, in emit
+    stream.write(msg + self.terminator)
+UnicodeEncodeError: 'gbk' codec can't encode character '\u1d9c' in position 888: illegal multibyte sequence
+Call stack:
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\sqlalchemy\orm\session.py", line 1969, in commit
+    trans.commit(_to_root=True)
+  File "<string>", line 2, in commit
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\sqlalchemy\orm\state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\sqlalchemy\orm\session.py", line 1256, in commit
+    self._prepare_impl()
+  File "<string>", line 2, in _prepare_impl
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\sqlalchemy\orm\state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\sqlalchemy\orm\session.py", line 1231, in _prepare_impl
+    self.session.flush()
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\sqlalchemy\orm\session.py", line 4312, in flush
+    self._flush(objects)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\sqlalchemy\orm\session.py", line 4408, in _flush
+    flush_context.execute()
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\sqlalchemy\orm\unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\sqlalchemy\orm\unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\sqlalchemy\orm\persistence.py", line 93, in save_obj
+    _emit_insert_statements(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\sqlalchemy\orm\persistence.py", line 1137, in _emit_insert_statements
+    result = connection.execute(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\sqlalchemy\engine\base.py", line 1416, in execute
+    return meth(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\sqlalchemy\sql\elements.py", line 517, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\sqlalchemy\engine\base.py", line 1639, in _execute_clauseelement
+    ret = self._execute_context(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\sqlalchemy\engine\base.py", line 1843, in _execute_context
+    return self._exec_insertmany_context(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\sqlalchemy\engine\base.py", line 2087, in _exec_insertmany_context
+    self._log_info(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\sqlalchemy\engine\base.py", line 193, in _log_info
+    self.engine.logger.info(message, *arg, **kw)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\sqlalchemy\log.py", line 159, in info
+    self.log(logging.INFO, msg, *args, **kwargs)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\sqlalchemy\log.py", line 210, in log
+    self.logger._log(level, msg, args, **kwargs)
+Message: '[%s] %r'
+Arguments: ('cached since 8062s ago (insertmanyvalues) 1/1 (ordered)', (52, 47, None, '面试突击87：说一下Spring 事务传播机制？ - 磊哥 - 博客园', 'https://www.cnblogs.com/vipstone/p/16735893.html', 'www.cnblogs.com', 'article', '该文章详细介绍了Spring的事务传播机制，包括REQUIRED、REQUIRES_NEW和NESTED三种模式。通过实例代码展示了不同传播行为下的事务处理方式，并解释了每种模式的工作原理。', '此资源全面覆盖了用户所需学习的主题内容，提供了清晰的概念解析与实际代码示例，非常适合希望深入理解Spring事务管理的学习者。', 'medium', 30, 91.29, 90.0, 80.0, 88.58, None, 52, 47, None, 'Spring REQUIRED事务传播机制详解与回滚策略_文心快码 - Comate', 'https://comate.baidu.com/zh/page/wuciteyik8h', 'comate.baidu.com', 'article', '本文深入探讨了Spring框架中的REQUIRED事务传播行为，解释了其作为默认传播行为的作用，即确保多个方法操作在同一个事务中执行以保证数据一致性。文章还介绍了REQUIRED传播行为的工作原理及其如何处理事务的回滚。', '该资源详细地解析了Spring事务传播机制中的REQUIRED模式，对于理解这一核心概念非常有帮助。尽管主要聚焦于REQUIRED，但提供了足够的背景信息来理解其他传播行为。', 'medium', 30, 89.61, 90.0, 80.0, 87.82, None, 52, 47, None, '什么是Spring事务传播机制？ - Java\u1d9c\u207f 面试突击', 'https://www.javacn.site/interview/spring/propagation.html', 'www.javacn.site', 'article', '本文详细介绍了Spring框架中的事务传播机制，特别是REQUIRED、REQUIRES_NEW和NESTED三种传播行为。通过实例代码展示了如何在不同场景下配置这些传播行为，并解释了它们之间的区别和适用场景。', '该文章全面覆盖了用户所需学习的主题内容，提供了清晰的概念解释和实际应用示例，有助于深入理解Spring事务传播机制的不同类型。', 'medium', 30, 88.68, 90.0, 80.0, 87.41, None, 52, 47 ... 476 parameters truncated ... 57.83, None, 52, 49, None, 'nested - Wiktionary, the free dictionary', 'https://en.wiktionary.org/wiki/nested', 'en.wiktionary.org', 'article', "该资源定义了'nested'一词的含义，包括其作为动词过去式和过去分词的形式、在词典编纂中的用法以及一些派生词。此外，还提供了多种语言中'nested'的翻译。", "虽然此资源主要解释了'nested'这个词的一般含义，并没有直接讨论Spring事务传播机制中的NESTED模式，但对于理解术语本身有一定帮助。然而，对于学习Spring框架的具体功能来说，这个资源的相关性较低。", 'basic', 30, 69.57, 30.0, 80.0, 57.81, None, 52, 49, None, 'NESTED Synonyms & Antonyms - 11 words - Thesaurus.com', 'https://www.thesaurus.com/browse/nested', 'www.thesaurus.com', 'article', '该资源提供了嵌套（nested）一词的同义词和反义词，包括固定、根深蒂固、安装等。虽然内容与Spring事务传播机制中的NESTED有一定关联，但主要侧重于词汇解释。', "尽管这不是直接关于Spring事务传播机制的文章，但对于理解'NESTED'这个词及其含义有帮助。不过，它对于学习Spring框架的具体技术细节帮助有限。", 'basic', 30, 68.77, 30.0, 80.0, 57.45, None, 52, 49, None, 'NESTED | definition in the Cambridge English Dictionary', 'https://dictionary.cambridge.org/us/dictionary/english/nested', 'dictionary.cambridge.org', 'article', "该资源提供了英文单词 'nested' 的定义，包括作为动词时的两种用法：动物筑巢和事物嵌套。此外，还提供了与 'nested' 相关的词汇、短语和同义词。", "虽然这个资源主要解释了 'nested' 的一般含义，但对于理解 Spring 事务传播机制中的 NESTED 模式有一定的帮助。它可以帮助学习者更好地理解 'nested' 在不同上下文中的使用。", 'basic', 30, 67.35, 30.0, 80.0, 56.81, None))
+Using fallback for LearningPathGenerator
+Using fallback for PracticeTaskGenerator: Spring 事务传播机制 REQUIRED
+[PracticeTaskGenerator[task=None]] LLM call timeout after 30s
+Redis initialization failed: Port could not be cast to integer value as 'Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob'. Cache will be disabled.
+Using fallback for UserNeedAnalyzer
+Using fallback for TopicExtractor
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Indexing Issues, MySQL Leftmost Prefix Principle, MySQL Explain Statement, Slow SQL Query Optimization
+Using fallback for LearningPathGenerator
+Using fallback for PracticeTaskGenerator: MySQL Indexing Issues
+Redis initialization failed: Port could not be cast to integer value as 'Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob'. Cache will be disabled.
+Using fallback for UserNeedAnalyzer
+Using fallback for TopicExtractor
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker 镜像构建, Dockerfile 优化, 容器网络, Docker Compose
+Using fallback for LearningPathGenerator
+Using fallback for PracticeTaskGenerator: Docker 镜像构建
+Redis initialization failed: Port could not be cast to integer value as 'Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob'. Cache will be disabled.
+Using fallback for UserNeedAnalyzer
+Using fallback for TopicExtractor
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库系统, 框架源代码分析
+Using fallback for LearningPathGenerator
+Using fallback for PracticeTaskGenerator: 后端缓存技术
+[PracticeTaskGenerator[task=None]] LLM call timeout after 30s
+Redis initialization failed: Port could not be cast to integer value as 'Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob'. Cache will be disabled.
+Using fallback for UserNeedAnalyzer
+Using fallback for TopicExtractor
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+Using fallback for ResourceEvaluator: 用户学习需求：Redis 缓存穿透、缓存击穿、缓存雪崩、布隆过滤器、分布式锁
+学习主题：Redis Cache Penetration, Redis Cache Breakdown, Redis Cache Avalanche, Bloom Filter in Redis, Distributed Locking with Redis
+[ResourceEvaluator[task=None]] LLM call timeout after 30s
+Using fallback for LearningPathGenerator
+Using fallback for PracticeTaskGenerator: Redis Cache Penetration
+[PracticeTaskGenerator[task=None]] LLM call timeout after 30s
+Redis initialization failed: Port could not be cast to integer value as 'Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob'. Cache will be disabled.
+Using fallback for UserNeedAnalyzer
+Using fallback for TopicExtractor
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+Using fallback for ResourceEvaluator: 用户学习需求：Spring 事务传播机制 REQUIRED、REQUIRES_NEW、NESTED
+学习主题：Spring Transaction Propagation REQUIRED, Spring Transaction Propagation REQUIRES_NEW, Spring Transaction Propagation NESTED
+[ResourceEvaluator[task=None]] LLM call timeout after 30s
+Using fallback for LearningPathGenerator
+Using fallback for PracticeTaskGenerator: Spring Transaction Propagation REQUIRED
+Redis initialization failed: Port could not be cast to integer value as 'Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob'. Cache will be disabled.
+Using fallback for UserNeedAnalyzer
+Using fallback for TopicExtractor
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for ResourceEvaluator: 用户学习需求：MySQL 索引失效、最左前缀、Explain、慢 SQL 优化
+学习主题：MySQL Index Failure, MySQL Leftmost Prefix Principle, MySQL Explain Command, MySQL Slow Query Optimization
+Using fallback for LearningPathGenerator
+Using fallback for PracticeTaskGenerator: MySQL Index Failure
+Redis initialization failed: Port could not be cast to integer value as 'Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob'. Cache will be disabled.
+Using fallback for UserNeedAnalyzer
+Using fallback for TopicExtractor
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for ResourceEvaluator: 用户学习需求：Docker 镜像构建、Dockerfile 优化、容器网络、docker-compose
+学习主题：Docker Image Building, Dockerfile Optimization, Container Networking, Docker Compose
+Using fallback for LearningPathGenerator
+Using fallback for PracticeTaskGenerator: Docker Image Building
+Redis initialization failed: Port could not be cast to integer value as 'Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob'. Cache will be disabled.
+Using fallback for UserNeedAnalyzer
+Using fallback for TopicExtractor
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for ResourceEvaluator: 用户学习需求：后端缓存、数据库和框架源码都不太懂
+学习主题：后端缓存技术, 数据库原理与应用, 框架源代码分析
+Using fallback for LearningPathGenerator
+Using fallback for PracticeTaskGenerator: 后端缓存技术
+Redis initialization failed: Port could not be cast to integer value as 'Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob'. Cache will be disabled.
+Using fallback for UserNeedAnalyzer
+Using fallback for TopicExtractor
+Retrying app.tools.tavily_tool.TavilyTool.search in 1.0 seconds as it raised SearchException: Tavily search failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response'))).
+Search failed for query '资源推荐系统': Tavily search failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+Retrying app.tools.tavily_tool.TavilyTool.search in 1.0 seconds as it raised SearchException: Tavily search failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)'))).
+Search failed for query '推荐算法': Tavily search failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+Retrying app.tools.tavily_tool.TavilyTool.search in 1.0 seconds as it raised SearchException: Tavily search failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)'))).
+Search failed for query '信息检索': Tavily search failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+Using fallback for LearningPathGenerator
+DashScope API error: 
+Traceback (most recent call last):
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 67, in map_httpcore_exceptions
+    yield
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 371, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\http_proxy.py", line 316, in handle_async_request
+    stream = await stream.start_tls(**kwargs)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\http11.py", line 376, in start_tls
+    return await self._stream.start_tls(ssl_context, server_hostname, timeout)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_backends\anyio.py", line 79, in start_tls
+    raise exc
+  File "D:\Anaconda\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\app\tools\llm_client.py", line 302, in _generate_dashscope_text
+    response = await client.post(url, headers=headers, json=data)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1877, in post
+    return await self.request(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1559, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1646, in send
+    response = await self._send_handling_auth(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1674, in _send_handling_auth
+    response = await self._send_handling_redirects(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1711, in _send_handling_redirects
+    response = await self._send_single_request(request)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1748, in _send_single_request
+    response = await transport.handle_async_request(request)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 371, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "D:\Anaconda\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 84, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError
+[task=None] Learning path generation failed: LLM generation failed: DashScope API error: , using fallback
+Using fallback for PracticeTaskGenerator: 资源推荐系统
+DashScope API error: 
+Traceback (most recent call last):
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 67, in map_httpcore_exceptions
+    yield
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 371, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\http_proxy.py", line 316, in handle_async_request
+    stream = await stream.start_tls(**kwargs)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\http11.py", line 376, in start_tls
+    return await self._stream.start_tls(ssl_context, server_hostname, timeout)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_backends\anyio.py", line 79, in start_tls
+    raise exc
+  File "D:\Anaconda\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\app\tools\llm_client.py", line 302, in _generate_dashscope_text
+    response = await client.post(url, headers=headers, json=data)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1877, in post
+    return await self.request(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1559, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1646, in send
+    response = await self._send_handling_auth(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1674, in _send_handling_auth
+    response = await self._send_handling_redirects(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1711, in _send_handling_redirects
+    response = await self._send_single_request(request)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1748, in _send_single_request
+    response = await transport.handle_async_request(request)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 371, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "D:\Anaconda\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 84, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError
+[task=None] Practice task generation failed: LLM generation failed: DashScope API error: , using fallback
+质量验证失败: 1个问题
+  - 资源列表为空
+[VALIDATION] Quality issues found: ['资源列表为空']
+Redis initialization failed: Port could not be cast to integer value as 'Sm9sVXBOYJjI030b5tz0trjpzvZzRhtZmEbv0uOImcD1wEDOPfeaqNU4PxHob'. Cache will be disabled.
+Using fallback for UserNeedAnalyzer
+DashScope API error: 
+Traceback (most recent call last):
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 67, in map_httpcore_exceptions
+    yield
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 371, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\http_proxy.py", line 316, in handle_async_request
+    stream = await stream.start_tls(**kwargs)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\http11.py", line 376, in start_tls
+    return await self._stream.start_tls(ssl_context, server_hostname, timeout)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_backends\anyio.py", line 79, in start_tls
+    raise exc
+  File "D:\Anaconda\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\app\tools\llm_client.py", line 302, in _generate_dashscope_text
+    response = await client.post(url, headers=headers, json=data)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1877, in post
+    return await self.request(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1559, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1646, in send
+    response = await self._send_handling_auth(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1674, in _send_handling_auth
+    response = await self._send_handling_redirects(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1711, in _send_handling_redirects
+    response = await self._send_single_request(request)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1748, in _send_single_request
+    response = await transport.handle_async_request(request)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 371, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "D:\Anaconda\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 84, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError
+[task=None] User need analysis failed: LLM generation failed: DashScope API error: , using fallback
+Using fallback for TopicExtractor
+DashScope API error: 
+Traceback (most recent call last):
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 67, in map_httpcore_exceptions
+    yield
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 371, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\http_proxy.py", line 316, in handle_async_request
+    stream = await stream.start_tls(**kwargs)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\http11.py", line 376, in start_tls
+    return await self._stream.start_tls(ssl_context, server_hostname, timeout)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_backends\anyio.py", line 79, in start_tls
+    raise exc
+  File "D:\Anaconda\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\app\tools\llm_client.py", line 302, in _generate_dashscope_text
+    response = await client.post(url, headers=headers, json=data)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1877, in post
+    return await self.request(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1559, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1646, in send
+    response = await self._send_handling_auth(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1674, in _send_handling_auth
+    response = await self._send_handling_redirects(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1711, in _send_handling_redirects
+    response = await self._send_single_request(request)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1748, in _send_single_request
+    response = await transport.handle_async_request(request)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 371, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "D:\Anaconda\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 84, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError
+[task=None] Topic extraction failed: LLM generation failed: DashScope API error: , using fallback
+DashScope API error: 
+Traceback (most recent call last):
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 67, in map_httpcore_exceptions
+    yield
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 371, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\http_proxy.py", line 316, in handle_async_request
+    stream = await stream.start_tls(**kwargs)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\http11.py", line 376, in start_tls
+    return await self._stream.start_tls(ssl_context, server_hostname, timeout)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_backends\anyio.py", line 79, in start_tls
+    raise exc
+  File "D:\Anaconda\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\app\tools\llm_client.py", line 302, in _generate_dashscope_text
+    response = await client.post(url, headers=headers, json=data)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1877, in post
+    return await self.request(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1559, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1646, in send
+    response = await self._send_handling_auth(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1674, in _send_handling_auth
+    response = await self._send_handling_redirects(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1711, in _send_handling_redirects
+    response = await self._send_single_request(request)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1748, in _send_single_request
+    response = await transport.handle_async_request(request)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 371, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "D:\Anaconda\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 84, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError
+Topic normalization failed: LLM generation failed: DashScope API error: , using fallback
+Retrying app.tools.tavily_tool.TavilyTool.search in 1.0 seconds as it raised SearchException: Tavily search failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)'))).
+Search failed for query '我想学习英雄联盟的伊泽瑞尔': Tavily search failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+Using fallback for LearningPathGenerator
+DashScope API error: 
+Traceback (most recent call last):
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 67, in map_httpcore_exceptions
+    yield
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 371, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\http_proxy.py", line 316, in handle_async_request
+    stream = await stream.start_tls(**kwargs)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\http11.py", line 376, in start_tls
+    return await self._stream.start_tls(ssl_context, server_hostname, timeout)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_backends\anyio.py", line 79, in start_tls
+    raise exc
+  File "D:\Anaconda\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\app\tools\llm_client.py", line 302, in _generate_dashscope_text
+    response = await client.post(url, headers=headers, json=data)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1877, in post
+    return await self.request(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1559, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1646, in send
+    response = await self._send_handling_auth(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1674, in _send_handling_auth
+    response = await self._send_handling_redirects(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1711, in _send_handling_redirects
+    response = await self._send_single_request(request)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1748, in _send_single_request
+    response = await transport.handle_async_request(request)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 371, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "D:\Anaconda\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 84, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError
+[task=None] Learning path generation failed: LLM generation failed: DashScope API error: , using fallback
+Using fallback for PracticeTaskGenerator: 我想学习英雄联盟的伊泽瑞尔
+DashScope API error: 
+Traceback (most recent call last):
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 67, in map_httpcore_exceptions
+    yield
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 371, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\http_proxy.py", line 316, in handle_async_request
+    stream = await stream.start_tls(**kwargs)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_async\http11.py", line 376, in start_tls
+    return await self._stream.start_tls(ssl_context, server_hostname, timeout)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_backends\anyio.py", line 79, in start_tls
+    raise exc
+  File "D:\Anaconda\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\app\tools\llm_client.py", line 302, in _generate_dashscope_text
+    response = await client.post(url, headers=headers, json=data)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1877, in post
+    return await self.request(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1559, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1646, in send
+    response = await self._send_handling_auth(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1674, in _send_handling_auth
+    response = await self._send_handling_redirects(
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1711, in _send_handling_redirects
+    response = await self._send_single_request(request)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_client.py", line 1748, in _send_single_request
+    response = await transport.handle_async_request(request)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 371, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "D:\Anaconda\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\TianHang\Desktop\新建文件夹\research\backend\.venv\lib\site-packages\httpx\_transports\default.py", line 84, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError
+[task=None] Practice task generation failed: LLM generation failed: DashScope API error: , using fallback
+质量验证失败: 1个问题
+  - 资源列表为空
+[VALIDATION] Quality issues found: ['资源列表为空']

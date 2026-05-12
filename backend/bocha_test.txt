@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "<string>", line 28, in <module>
+  File "D:\Anaconda\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "D:\Anaconda\lib\asyncio\base_events.py", line 647, in run_until_complete
+    return future.result()
+  File "<string>", line 26, in test
+UnicodeEncodeError: 'gbk' codec can't encode character '\xa9' in position 620: illegal multibyte sequence

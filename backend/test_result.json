@@ -1,0 +1,153 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": {
+    "task_id": 12,
+    "status": "COMPLETED",
+    "topics": [
+      {
+        "id": 3,
+        "normalized_topic": "",
+        "category": "",
+        "priority": "medium",
+        "reason": "",
+        "keywords": []
+      }
+    ],
+    "resources": [
+      {
+        "id": 3,
+        "title": "Python 数据结构与算法分析",
+        "url": "https://example.com/data-structures-algorithms",
+        "source": "",
+        "resource_type": "article",
+        "summary": "本文详细介绍了 Python 中常用的数据结构（如列表、栈、队列等）和算法（如排序、查找等），并提供了详细的代码示例和运行结果分析。文章还讲解了数据结构和算法在实际编程中的应用，帮助读者理解如何优化程序性能。",
+        "reason": "该资源适合初学者和有一定基础的开发者学习 Python 中的数据结构和算法。文章内容全面，涵盖多种常用的数据结构和算法，提供了丰富的代码示例和实际应用场景，有助于读者加深理解并提高编程能力。",
+        "difficulty": "basic",
+        "estimated_minutes": null,
+        "relevance_score": 90.0,
+        "quality_score": 95.0,
+        "practical_score": 85.0,
+        "final_score": 90.5
+      }
+    ],
+    "learning_path": {
+      "id": 3,
+      "title": "学习路径",
+      "description": "本学习路径旨在系统地学习 Python Web 框架及 API 开发，从基础框架 FastAPI 开始，深入理解框架特性，掌握更高级的 API 设计与开发技巧。适合有一定 Python 基础的开发者。",
+      "stages": [
+        {
+          "stage_number": 1,
+          "stage_name": "基础理论与框架特性",
+          "description": "学习 Python Web 框架和 FastAPI 的基本概念、特性和使用方法。",
+          "estimated_hours": 8,
+          "steps": [
+            {
+              "step_number": 1,
+              "title": "理解 Python Web 框架",
+              "description": "学习 Python Web 框架的基本概念，如 MVC 模式、ORM 等，理解 FastAPI 的基础特性。",
+              "learning_goals": [
+                "掌握 Python Web 框架的基本概念",
+                "理解 FastAPI 的主要特性"
+              ],
+              "resource_ids": [
+                3
+              ],
+              "estimated_minutes": 60
+            },
+            {
+              "step_number": 2,
+              "title": "构建 FastAPI 应用",
+              "description": "通过实际项目操作，实践 FastAPI 的基本用法，包括路由定义、数据验证等。",
+              "learning_goals": [
+                "学会使用 FastAPI 定义路由",
+                "掌握数据类型提示的使用"
+              ],
+              "resource_ids": [
+                3
+              ],
+              "estimated_minutes": 60
+            }
+          ]
+        },
+        {
+          "stage_number": 2,
+          "stage_name": "进阶实践与API开发",
+          "description": "深入学习 API 设计与开发，掌握更高级的 API 设计技巧。",
+          "estimated_hours": 8,
+          "steps": [
+            {
+              "step_number": 1,
+              "title": "RESTful API 设计",
+              "description": "学习 RESTful API 的设计原则和最佳实践，掌握设计良好的 API 接口。",
+              "learning_goals": [
+                "理解 RESTful API 的设计原则",
+                "掌握 API 接口设计的最佳实践"
+              ],
+              "resource_ids": [
+                3
+              ],
+              "estimated_minutes": 60
+            },
+            {
+              "step_number": 2,
+              "title": "API测试与文档",
+              "description": "学习如何使用工具进行 API 测试，了解 API 文档的重要性和编写方法。",
+              "learning_goals": [
+                "学会使用 Postman 进行 API 测试",
+                "掌握 API 文档的编写方法"
+              ],
+              "resource_ids": [
+                3
+              ],
+              "estimated_minutes": 60
+            }
+          ]
+        },
+        {
+          "stage_number": 3,
+          "stage_name": "综合应用与优化",
+          "description": "通过实际项目综合运用所学知识，优化 API 性能。",
+          "estimated_hours": 4,
+          "steps": [
+            {
+              "step_number": 1,
+              "title": "项目实践",
+              "description": "基于 FastAPI 开发一个完整的 API 服务，包括数据模型设计、API 接口实现等。",
+              "learning_goals": [
+                "学会设计并实现完整的 API 服务",
+                "掌握 API 服务的部署和优化"
+              ],
+              "resource_ids": [
+                3
+              ],
+              "estimated_minutes": 120
+            },
+            {
+              "step_number": 2,
+              "title": "性能优化",
+              "description": "学习如何优化 API 性能，包括代码优化、配置优化等。",
+              "learning_goals": [
+                "掌握 API 性能优化的方法",
+                "学会使用工具监控 API 性能"
+              ],
+              "resource_ids": [
+                3
+              ],
+              "estimated_minutes": 60
+            }
+          ]
+        }
+      ]
+    },
+    "practice_tasks": [
+      {
+        "id": 2,
+        "task_text": "",
+        "reference_answer": "",
+        "difficulty": "medium",
+        "task_type": "concept_question"
+      }
+    ]
+  }
+}
